@@ -8,11 +8,11 @@ Problem Statement:
 
 Strategic Plan for Optimal Performance in T20 Cricket :
 
-•	Utilized Python and Power BI to develop a system for selecting the top 11 T20 cricket players worldwide.
-•	Leveraged Pandas and NumPy libraries in Python for efficient data sorting and filtering.
-•	Implemented DAX and various Power BI functions to create an intuitive and visually appealing dashboard interface.
-•	Demonstrated proficiency in data manipulation, visualization, and problem-solving within sports analytics.
-•	Contributed to structured decision-making processes through systematic data analysis and visualization techniques.
+-	Utilized Python and Power BI to develop a system for selecting the top 11 T20 cricket players worldwide.
+-	Leveraged Pandas and NumPy libraries in Python for efficient data sorting and filtering.
+-	Implemented DAX and various Power BI functions to create an intuitive and visually appealing dashboard interface.
+-	Demonstrated proficiency in data manipulation, visualization, and problem-solving within sports analytics.
+-	Contributed to structured decision-making processes through systematic data analysis and visualization techniques.
 
 
 Batting Order:
@@ -49,11 +49,11 @@ Criteria:
 
 OPENERS                                
 PARAMETERS                 DESCRIPTION                                                    CRITERIA
-Batting Average             Average runs scored in an innings                      >30
-Strike Rate                          No of runs scored per 100 balls                       >140
-Innings Batted               Total Innings batted                                              >3
-Boundary %                       % of runs scored in boundaries                      >50
-Batting Position               Order in which the batter played                  < 4
+- Batting Average             Average runs scored in an innings                      >30
+- Strike Rate                          No of runs scored per 100 balls                       >140
+- Innings Batted               Total Innings batted                                              >3
+- Boundary %                       % of runs scored in boundaries                      >50
+- Batting Position               Order in which the batter played                  < 4
 
 ANCHORS / MIDDLE-ORDER    
 
