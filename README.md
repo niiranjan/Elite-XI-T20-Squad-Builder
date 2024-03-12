@@ -6,7 +6,14 @@ Problem Statement:
 1.	Scoring Capability: The team consistently scores 180+ runs on average.
 2.	Defensive Capability: The team effectively defends totals of 150+ runs on average.
 
-Strategic Plan for Optimal Performance in T20 Cricket
+Strategic Plan for Optimal Performance in T20 Cricket :
+
+•	Utilized Python and Power BI to develop a system for selecting the top 11 T20 cricket players worldwide.
+•	Leveraged Pandas and NumPy libraries in Python for efficient data sorting and filtering.
+•	Implemented DAX and various Power BI functions to create an intuitive and visually appealing dashboard interface.
+•	Demonstrated proficiency in data manipulation, visualization, and problem-solving within sports analytics.
+•	Contributed to structured decision-making processes through systematic data analysis and visualization techniques.
+
 
 Batting Order:
 
