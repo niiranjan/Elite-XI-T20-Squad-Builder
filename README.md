@@ -1,4 +1,4 @@
-# Elite-XI-T20-Squad-Builder
+# Elite-XI-T20-Squad-Builder🏏
 Elite XI T20 Sqaud Builder Python -Powered Player Selection and Power BI Dashboard
 
 Problem Statement:
@@ -6,7 +6,7 @@ Problem Statement:
 1.	Scoring Capability: The team consistently scores 180+ runs on average.
 2.	Defensive Capability: The team effectively defends totals of 150+ runs on average.
 
-Strategic Plan for Optimal Performance in T20 Cricket :
+Strategic Plan for Optimal Performance in T20 Cricket :📊
 
 -	Utilized Python and Power BI to develop a system for selecting the top 11 T20 cricket players worldwide.
 -	Leveraged Pandas and NumPy libraries in Python for efficient data sorting and filtering.
@@ -45,7 +45,7 @@ Bowling Rotations:
 
 By implementing this strategic plan tailored to the strengths and weaknesses of our selected players, we aim to maximize our team's chances of success in T20 matches against diverse opponents.
 
-Criteria:
+Criteria:🎯
 
 OPENERS                                
 PARAMETERS                 DESCRIPTION                                                    CRITERIA
