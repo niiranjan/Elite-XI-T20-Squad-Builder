@@ -56,46 +56,45 @@ PARAMETERS                 DESCRIPTION                                          
 - Batting Position -               Order in which the batter played                  < 4
 
 ANCHORS / MIDDLE-ORDER    
-
 PARAMETERS                DESCRIPTION                                                       CRITERIA
--Batting Average -          Average runs scored in an innings                      >40   
--Strike Rate -                    No of runs scored per 100 balls                         >125
--Innings Batted -               Total Innings batted                                             >3
--Avg. Balls Faced -             Average balls faced by the batter in                 > 20
+- Batting Average -          Average runs scored in an innings                      >40   
+- Strike Rate -                    No of runs scored per 100 balls                         >125
+- Innings Batted -               Total Innings batted                                             >3
+- Avg. Balls Faced -             Average balls faced by the batter in                 > 20
                                           an innings
- -Batting Position -            Order in which the batter played                     >2     
+ - Batting Position -            Order in which the batter played                     >2     
 
 FINISHER / LOWER  ORDER ANCHOR
 
 PARAMETERS                 DESCRIPTION                                                            CRITERIA
--Batting Average -           Average runs scored in an innings                                >25
--Strike Rate -                      No of runs scored per 100 balls                                   >130
--Innings Batted -              Total Innings batted                                                          >3
--Avg. Balls Faced -           Average balls faced by the batter in an innings            >12
--Batting Position -            Order in which the batter played                                    >4
--Innings Bowled -           Total Innings Bowled by the bowler                                  >1
+- Batting Average -           Average runs scored in an innings                                >25
+- Strike Rate -                      No of runs scored per 100 balls                                   >130
+- Innings Batted -              Total Innings batted                                                          >3
+- Avg. Balls Faced -           Average balls faced by the batter in an innings            >12
+- Batting Position -            Order in which the batter played                                    >4
+- Innings Bowled -           Total Innings Bowled by the bowler                                  >1
 
 
 ALL-ROUNDERS / LOWER ORDER      
 
 PARAMETERS                     DESCRIPTION                                                      CRITERIA
--Batting Average -                 Average runs scored in an innings                      >15
--Strike Rate -                       No of runs scored per 100 balls                              >140
--Innings Batted -                   Total Innings batted                                                 >2
--Batting Position -                Order in which the batter played                          >4
--Innings Bowled -                 Total Innings bowled                                                >2
--Bowling Economy -            Average runs allowed per over                                <7
--Bowling Strike Rate -           Average no. of balls required to take a wicket     <20
+- Batting Average -                 Average runs scored in an innings                      >15
+- Strike Rate -                       No of runs scored per 100 balls                              >140
+- Innings Batted -                   Total Innings batted                                                 >2
+- Batting Position -                Order in which the batter played                          >4
+- Innings Bowled -                 Total Innings bowled                                                >2
+- Bowling Economy -            Average runs allowed per over                                <7
+- Bowling Strike Rate -           Average no. of balls required to take a wicket     <20
 
 SPECIALIST FAST BOWLERS             
 
 PARAMETERS                   DESCRIPTION                                                          CRITERIA
--Innings Bowled                Total Innings bowled                                                    >4
--Bowling Economy -           Average runs allowed per over                                  <7
--Bowling Strike Rate -      Average no. of balls required to take a wicket          <16
--Bowling Style -                 The Bowling style of the player                                          = %FAST%
--Bowling Average -            No. of runs allowed per wicket                                  <20
--Dot Ball % -                        % of dot balls bowled                                                  >40
+- Innings Bowled                Total Innings bowled                                                    >4
+- Bowling Economy -           Average runs allowed per over                                  <7
+- Bowling Strike Rate -      Average no. of balls required to take a wicket          <16
+- Bowling Style -                 The Bowling style of the player                                          = %FAST%
+- Bowling Average -            No. of runs allowed per wicket                                  <20
+- Dot Ball % -                        % of dot balls bowled                                                  >40
 
 
 
